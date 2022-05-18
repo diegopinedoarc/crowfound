@@ -70,10 +70,9 @@
         text-decoration: none;
         color: white;
     }
-    .li_Menu a:hover {
-        font-size: 1.8rem;
-        color: var(--cultured);
-    }
+    /* .li_Menu a:hover {
+        
+    } */
     .main {
         display: flex;
         flex-direction: column;
@@ -534,10 +533,9 @@
         text-decoration: none;
         color: white;
     }
-    .li_Menu a:hover {
-        font-size: 1.8rem;
-        color: var(--cultured);
-    }
+    /* .li_Menu a:hover {
+      
+    } */
     .main {
         display: flex;
         flex-direction: column;
