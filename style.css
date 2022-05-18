@@ -1258,7 +1258,7 @@
         margin-bottom: 2rem;
     }
     .barraVerde {
-        width: 16rem;
+        width: 14rem;
         height: 0.7rem;
         background:var(--cyan);
         border-radius: 8px;
@@ -1266,7 +1266,7 @@
         z-index: 1;
     }
     .barraGris {
-        width: 20rem;
+        width: 18rem;
         height: 0.7rem;
         background: rgb(211, 210, 210);
         border-radius: 8px;
